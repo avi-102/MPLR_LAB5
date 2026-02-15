@@ -1,4 +1,4 @@
-<img width="1203" height="663" alt="image" src="https://github.com/user-attachments/assets/f98b40f4-e673-4a51-9e6d-a6a17dba1bef" /># Machine Learning and Pattern Recognition — Lab 5
+# Machine Learning and Pattern Recognition — Lab 5
 
 Face Detection, Clustering and Classification using OpenCV + KMeans
 
